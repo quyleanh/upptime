@@ -22,12 +22,12 @@
     "url": "https://file.gocmod.com",
     "icon": "https://favicons.githubusercontent.com/file.gocmod.com",
     "slug": "gocmod-files",
-    "status": "up",
-    "uptime": "76.93%",
-    "uptimeDay": "76.93%",
-    "uptimeWeek": "76.93%",
-    "uptimeMonth": "76.93%",
-    "uptimeYear": "76.93%",
+    "status": "down",
+    "uptime": "82.24%",
+    "uptimeDay": "82.24%",
+    "uptimeWeek": "82.24%",
+    "uptimeMonth": "82.24%",
+    "uptimeYear": "82.24%",
     "time": 8559,
     "timeDay": 8559,
     "timeWeek": 8559,
@@ -54,7 +54,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2022-02-27": 102
+      "2022-02-27": 133
     }
   }
 ]
