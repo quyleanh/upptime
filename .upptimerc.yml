@@ -3,12 +3,14 @@ owner: quyleanh # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name:  Billie
+  - name: Billie
     url: https://imblien.com
   - name: Gocmod Files
     url: https://file.gocmod.com
-  - name: vOz
-    url: https://voz.vn
+  - name: Vaultwarden
+    url: $BW
+  - name: Adguard Home
+    url: $AG
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,7 +26,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: night
   faviconSvg: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
 
 # Upptime also supports notifications, assigning issues, and more
