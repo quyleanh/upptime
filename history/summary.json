@@ -4,19 +4,19 @@
     "url": "https://imblien.com",
     "icon": "https://favicons.githubusercontent.com/imblien.com",
     "slug": "billie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 1145,
-    "timeWeek": 388,
-    "timeMonth": 206,
-    "timeYear": 183,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 213,
+    "timeDay": 1452,
+    "timeWeek": 574,
+    "timeMonth": 263,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 8
     }
   },
   {
