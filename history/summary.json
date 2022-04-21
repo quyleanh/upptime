@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/file.gocmod.com",
     "slug": "gocmod-files",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "97.72%",
+    "uptimeYear": "97.73%",
     "time": 2159,
     "timeDay": 1106,
     "timeWeek": 1020,
@@ -78,9 +78,9 @@
     "url": "$AG",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "adguard-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
@@ -90,6 +90,7 @@
     "timeMonth": 1038,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2022-04-21": 0,
       "2022-04-13": 20,
       "2022-03-14": 74
     }
