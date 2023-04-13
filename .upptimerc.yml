@@ -9,6 +9,12 @@ sites:
     url: $BW
   - name: Adguard Home
     url: $AG
+  - name: Adguard Home DoH
+    url: $AG/dns-query?dns=AAABAAABAAAAAAAABmdvb2dsZQNjb20AAAEAAQ
+  - name: Adguard Home DoT
+    check: "tcp-ping"
+    url: $AG_DOT
+    port: 853
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
