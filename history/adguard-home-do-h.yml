@@ -1,7 +1,0 @@
-url: $AG/dns-query?name=cloudflare.com
-status: down
-code: 400
-responseTime: 335
-lastUpdated: 2023-04-13T01:10:30.495Z
-startTime: Thu Apr 13 2023 01:10:29 GMT+0000 (Coordinated Universal Time)
-generator: Upptime <https://github.com/upptime/upptime>
