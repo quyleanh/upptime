@@ -9,12 +9,6 @@ sites:
     url: $BW
   - name: Adguard Home
     url: $AG
-  - name: Adguard Home DoH
-    url: $AG/dns-query?name=cloudflare.com
-  - name: Adguard Home DoT
-    url: $AG
-    check: "tcp-ping"
-    port: 853
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
