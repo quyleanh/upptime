@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
-    "time": 999,
-    "timeDay": 910,
-    "timeWeek": 1031,
-    "timeMonth": 1052,
+    "time": 1000,
+    "timeDay": 1249,
+    "timeWeek": 1052,
+    "timeMonth": 1067,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2022-09-22": 809,
@@ -41,9 +41,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 702,
-    "timeDay": 487,
-    "timeWeek": 688,
-    "timeMonth": 699,
+    "timeDay": 747,
+    "timeWeek": 682,
+    "timeMonth": 705,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2023-04-24": 75,
@@ -66,9 +66,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.18%",
     "time": 1084,
-    "timeDay": 1005,
-    "timeWeek": 890,
-    "timeMonth": 894,
+    "timeDay": 1147,
+    "timeWeek": 928,
+    "timeMonth": 911,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2023-03-09": 409,
@@ -211,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 186,
-    "timeDay": 225,
-    "timeWeek": 171,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 188,
+    "timeDay": 240,
+    "timeWeek": 182,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2023-04-13": 54
     }
@@ -225,14 +225,14 @@
     "url": "$AG_DOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home-do-t",
-    "status": "up",
-    "uptime": "91.20%",
-    "uptimeDay": "61.71%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "91.20%",
+    "status": "down",
+    "uptime": "91.33%",
+    "uptimeDay": "61.70%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "91.33%",
     "time": 254,
-    "timeDay": 248,
+    "timeDay": 250,
     "timeWeek": 257,
     "timeMonth": 254,
     "timeYear": 254,
@@ -241,7 +241,7 @@
       "2023-05-06": 703,
       "2023-05-05": 690,
       "2023-05-04": 743,
-      "2023-05-03": 453
+      "2023-05-03": 408
     }
   }
 ]
