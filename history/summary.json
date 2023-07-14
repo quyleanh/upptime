@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 1081,
     "timeDay": 1426,
     "timeWeek": 1016,
@@ -55,7 +55,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.31%",
+    "uptimeYear": "69.32%",
     "time": 1034,
     "timeDay": 890,
     "timeWeek": 741,
@@ -208,12 +208,12 @@
     "url": "$AG_DOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home-do-t",
-    "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "58.21%",
-    "uptimeWeek": "66.80%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "97.48%",
+    "status": "down",
+    "uptime": "97.49%",
+    "uptimeDay": "58.20%",
+    "uptimeWeek": "66.96%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "97.49%",
     "time": 205,
     "timeDay": 175,
     "timeWeek": 170,
@@ -226,7 +226,7 @@
       "2023-07-11": 450,
       "2023-07-10": 678,
       "2023-07-09": 543,
-      "2023-07-08": 193
+      "2023-07-08": 177
     }
   }
 ]
