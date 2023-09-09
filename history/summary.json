@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "73.90%",
+    "uptime": "73.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.57%",
+    "uptimeYear": "70.58%",
     "time": 1001,
     "timeDay": 915,
     "timeWeek": 1192,
@@ -172,8 +172,7 @@
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
-      "2022-09-10": 1440,
-      "2022-09-09": 1440
+      "2022-09-10": 1440
     }
   },
   {
@@ -203,7 +202,7 @@
     "slug": "adguard-home-do-t",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "55.65%",
+    "uptimeDay": "58.38%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "98.57%",
