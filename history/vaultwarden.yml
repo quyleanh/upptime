@@ -1,7 +1,7 @@
 url: $BW
-status: down
-code: 502
-responseTime: 173
-lastUpdated: 2023-09-21T23:29:26.165Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2023-09-21T23:37:19.277Z
 startTime: 2022-02-28T08:57:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
