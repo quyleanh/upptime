@@ -183,9 +183,9 @@
     "slug": "adguard-home-do-t",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "65.04%",
-    "uptimeWeek": "70.52%",
-    "uptimeMonth": "93.22%",
+    "uptimeDay": "65.58%",
+    "uptimeWeek": "70.44%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "98.81%",
     "time": 189,
     "timeDay": 169,
@@ -193,12 +193,12 @@
     "timeMonth": 171,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-10-03": 502,
+      "2023-10-03": 494,
       "2023-10-02": 738,
       "2023-10-01": 525,
       "2023-09-30": 626,
       "2023-09-29": 509,
-      "2023-09-28": 80
+      "2023-09-28": 96
     }
   }
 ]
