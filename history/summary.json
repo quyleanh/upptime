@@ -181,12 +181,12 @@
     "url": "$AG_DOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home-do-t",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "54.51%",
-    "uptimeWeek": "68.60%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "55.15%",
+    "uptimeWeek": "68.94%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "98.83%",
     "time": 188,
     "timeDay": 165,
     "timeWeek": 166,
@@ -198,7 +198,7 @@
       "2023-10-14": 712,
       "2023-10-13": 478,
       "2023-10-12": 683,
-      "2023-10-11": 250
+      "2023-10-11": 216
     }
   }
 ]
