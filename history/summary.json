@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imblien.com.ico",
     "slug": "billie",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -180,11 +180,11 @@
     "url": "$AG_DOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home-do-t",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "54.76%",
-    "uptimeWeek": "68.88%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "55.79%",
+    "uptimeWeek": "69.08%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "98.90%",
     "time": 187,
     "timeDay": 188,
@@ -197,7 +197,7 @@
       "2023-10-25": 641,
       "2023-10-24": 617,
       "2023-10-23": 630,
-      "2023-10-22": 301
+      "2023-10-22": 280
     }
   }
 ]
