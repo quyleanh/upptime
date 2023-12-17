@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 1082,
-    "timeWeek": 993,
-    "timeMonth": 959,
+    "time": 1117,
+    "timeDay": 995,
+    "timeWeek": 971,
+    "timeMonth": 969,
     "timeYear": 1019,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 729,
-    "timeDay": 750,
-    "timeWeek": 674,
-    "timeMonth": 671,
-    "timeYear": 731,
+    "timeDay": 634,
+    "timeWeek": 657,
+    "timeMonth": 673,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2023-04-24": 75
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "78.57%",
+    "uptime": "78.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.35%",
-    "time": 923,
-    "timeDay": 944,
-    "timeWeek": 803,
-    "timeMonth": 762,
-    "timeYear": 846,
+    "uptimeYear": "81.61%",
+    "time": 922,
+    "timeDay": 771,
+    "timeWeek": 778,
+    "timeMonth": 767,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2023-03-09": 409,
       "2023-03-08": 1440,
@@ -122,8 +122,7 @@
       "2022-12-21": 1440,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
-      "2022-12-18": 1440,
-      "2022-12-17": 1440
+      "2022-12-18": 1440
     }
   },
   {
@@ -138,12 +137,40 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 153,
-    "timeDay": 171,
-    "timeWeek": 153,
-    "timeMonth": 143,
+    "timeDay": 146,
+    "timeWeek": 149,
+    "timeMonth": 144,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2023-04-13": 54
+    }
+  },
+  {
+    "name": "Adguard Home DoT",
+    "url": "$AG_DOT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "adguard-home-do-t",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 184,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 170,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2023-12-17": 0,
+      "2023-12-04": 497,
+      "2023-12-03": 1343,
+      "2023-12-02": 641,
+      "2023-12-01": 674,
+      "2023-11-30": 629,
+      "2023-11-29": 596,
+      "2023-11-28": 471,
+      "2023-11-27": 259
     }
   }
 ]
