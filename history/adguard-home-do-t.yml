@@ -1,7 +1,7 @@
 url: $AG_DOT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-03T19:14:44.503Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2024-01-03T19:22:39.450Z
 startTime: 2023-12-17T00:05:47.761Z
 generator: Upptime <https://github.com/upptime/upptime>
