@@ -80,14 +80,14 @@
     "url": "$AG_DOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-home-do-t",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "66.81%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "97.60%",
+    "status": "down",
+    "uptime": "97.61%",
+    "uptimeDay": "67.04%",
+    "uptimeWeek": "69.01%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "97.61%",
     "time": 174,
-    "timeDay": 147,
+    "timeDay": 146,
     "timeWeek": 147,
     "timeMonth": 148,
     "timeYear": 174,
@@ -97,7 +97,7 @@
       "2024-03-14": 718,
       "2024-03-13": 532,
       "2024-03-12": 755,
-      "2024-03-11": 340
+      "2024-03-11": 324
     }
   }
 ]
